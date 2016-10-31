@@ -1,0 +1,12 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'RuimaContact' do
+  # Comment this line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for RuimaContact
+pod 'AVOSCloud'               # 数据存储、短信、云引擎调用等基础服务模块
+#pod 'LeanCloud'
+
+end
