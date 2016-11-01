@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "536F2FD649630553B69E7CBA97D0008C"
+               BlueprintIdentifier = "AFE16B0009E3A1758196DEF62E855FD7"
                BuildableName = "Pods_RuimaContact.framework"
                BlueprintName = "Pods-RuimaContact"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "536F2FD649630553B69E7CBA97D0008C"
+            BlueprintIdentifier = "AFE16B0009E3A1758196DEF62E855FD7"
             BuildableName = "Pods_RuimaContact.framework"
             BlueprintName = "Pods-RuimaContact"
             ReferencedContainer = "container:Pods.xcodeproj">
